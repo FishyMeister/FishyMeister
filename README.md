@@ -20,7 +20,7 @@ I’ve worked on **e-commerce platforms, travel systems, AI-powered tools**, and
 
 **Frontend:** JavaScript (ES6+), TypeScript, React, Next.js, Tailwind CSS  
 **Backend:** Node.js, Express, REST APIs, Firebase, SQL  
-**Cloud & DevOps:** Firebase, Azure, Docker, Git, GitHub  
+**Cloud & DevOps:** Firebase, AWS, Docker, Git, GitHub  
 **Other:** Python (automation), OCR & Computer Vision (YOLO-based)
 
 ---
