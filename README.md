@@ -1,97 +1,130 @@
-# Hi, I'm Noman Basit 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E8630A&height=140&section=header&text=Noman%20Basit&fontSize=48&fontColor=ffffff&fontAlignY=60&desc=Full-Stack%20Web%20Developer&descAlignY=78&descSize=18&descColor=ffffff"/>
 
-Full Stack Developer building scalable, user-focused web applications with modern JavaScript frameworks and cloud-native tools.
+<div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-nomanbasit.netlify.app-blue?style=flat&logo=google-chrome)](https://nomanbasit.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-noman--basit-blue?style=flat&logo=linkedin)](https://linkedin.com/in/noman-basit)
-[![Email](https://img.shields.io/badge/Email-nomanbasit366@gmail.com-red?style=flat&logo=gmail)](mailto:nomanbasit366@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=E8630A&center=true&vCenter=true&width=520&height=50&lines=Building+web+products+for+business+%F0%9F%9A%80;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+TypeScript;10%2B+projects+shipped+across+3+continents;Open+to+new+projects+%F0%9F%9F%A2" alt="Typing SVG" />
 
----
+<br/>
 
-## 👨‍💻 About Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-E8630A?style=for-the-badge&logo=vercel&logoColor=white)](#replace-with-your-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noman-basit/)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nomanbasit366@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=FishyMeister&style=for-the-badge&color=E8630A&label=PROFILE+VIEWS)](https://github.com/FishyMeister)
 
-I’m a **Full Stack Developer** with hands-on experience designing, developing, and deploying production-ready web applications. I specialize in building fast, responsive frontends and reliable backends, with a strong focus on clean architecture, performance, and real-world usability.
-
-I’ve worked on **e-commerce platforms, travel systems, AI-powered tools**, and cloud deployments—both in team environments and independently as a freelancer.
-
----
-
-## 🛠 Tech Stack
-
-**Frontend:** JavaScript (ES6+), TypeScript, React, Next.js, Tailwind CSS  
-**Backend:** Node.js, Express, REST APIs, Firebase, SQL  
-**Cloud & DevOps:** Firebase, AWS, Docker, Git, GitHub  
-**Other:** Python (automation), OCR & Computer Vision (YOLO-based)
+</div>
 
 ---
 
-## 🚀 Featured Projects
+### 👋 About Me
 
-### **AttireNova**
-🔗 https://attirenova.netlify.app  
-🧵 Fashion E-commerce Platform  
-**Tech:** React, Tailwind, Firebase  
+Full-stack developer who builds **web products for startups and growing businesses** — not just writing code, but delivering outcomes.
 
-- Implemented authentication, product management, and real-time inventory
-- Built responsive UI optimized for performance and conversions
-- Integrated secure data handling and deployment workflows  
-
-[GitHub Repository](https://github.com/FishySenpai/AttireNova)
+- 🔨 &nbsp;Currently focused on **AI integrations**, **full-stack platforms**, and **high-converting business sites**
+- 🌍 &nbsp;10+ projects delivered across 3 continents
+- ⚡ &nbsp;Fast turnaround · Clean code · Someone who cares about the result, not just the deliverable
+- 🟢 &nbsp;**Open to new freelance projects** — [let's talk](mailto:nomanbasit366@gmail.com)
 
 ---
 
-### **SkyClarity**
-🔗 https://skyclarity.netlify.app  
-✈️ Travel & Booking Web App  
-**Tech:** React, External APIs  
+### 🛠 Tech Stack
 
-- Integrated real-time travel data for 3,000+ locations
-- Designed smooth UX flows for search and filtering
-- Focused on scalability and API-driven architecture  
+<div align="center">
 
-[GitHub Repository](https://github.com/FishySenpai/SkyClarity)
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,tailwind,python,firebase,supabase,postgres,docker,vercel,figma&perline=6" />
+
+</div>
 
 ---
 
-### **Wireframe to UI Builder**
-🤖 AI-Powered Developer Tool  
-**Tech:** React, Node.js, YOLOv11, OCR  
+### 📊 GitHub Stats
 
-- Converts wireframe images into responsive React components
-- Automated UI generation using computer vision pipelines
-- Built to accelerate frontend development workflows  
+<div align="center">
 
-[GitHub Repository](https://github.com/FishySenpai/Wireframe-to-UI-Builder)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=FishyMeister&show_icons=true&hide_border=true&bg_color=0F172A&title_color=E8630A&icon_color=E8630A&text_color=ffffff&include_all_commits=true&count_private=true" />
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FishyMeister&layout=compact&hide_border=true&bg_color=0F172A&title_color=E8630A&text_color=ffffff&langs_count=8" />
 
----
+<br/><br/>
 
-## 💼 Experience
+<img width="62%" src="https://streak-stats.demolab.com/?user=FishyMeister&hide_border=true&background=0F172A&stroke=E8630A&ring=E8630A&fire=E8630A&currStreakLabel=E8630A&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff" />
 
-**Full Stack Developer — Healthision**  
-- Developed features for health research platforms
-- Improved search functionality and application performance
-- Collaborated on production codebases and deployments
-
-**Freelance Developer**
-- Built and deployed applications using Firebase & Azure
-- Delivered Python automation solutions
-- Provided mentoring in OOP and Data Structures
+</div>
 
 ---
 
-## 🎓 Education
+### 📈 Contribution Activity
 
-**BS Computer Science — SZABIST Islamabad**  
-GPA: 3.53 / 4.0
+<div align="center">
 
----
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=FishyMeister&bg_color=0F172A&color=E8630A&line=E8630A&point=ffffff&hide_border=true&area=true&area_color=E8630A" />
 
-## 📫 Get in Touch
-
-- 🌐 Portfolio: https://nomanbasit.com 
-- 💼 LinkedIn: https://linkedin.com/in/noman-basit  
-- ✉️ Email: nomanbasit366@gmail.com  
+</div>
 
 ---
 
-> *“Strive not to be a success, but rather to be of value.”*
+### 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=FishyMeister&theme=darkhub&no-frame=true&margin-w=6&column=7" />
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| [**Wireframe → UI Builder**](https://wireframe-to-ui-builder.vercel.app/) | AI tool that converts wireframe images into production-ready React components using YOLOv11 + OCR. Cut frontend scaffolding by 70%. | React · Node.js · YOLOv11 · Firebase |
+| [**GitHub Profile Analyzer**](https://git-profile-analyzer.vercel.app/) | Deep GitHub profile analysis platform. SSR cut load time 35%. Scaled to 1,000+ daily active users. | Next.js · Supabase · TailwindCSS |
+| [**AttireNova**](https://attirenova.netlify.app/) | Full e-commerce store — product catalogue, cart, and checkout built from concept to launch. | React · Firebase · TailwindCSS |
+| [**SkyClarity**](https://skyclarity.netlify.app/) | Travel booking platform for flights, hotels, and cars with real-time API data. | React · Rapid API · TailwindCSS |
+
+---
+
+### 🐍 Contribution Snake
+
+<!--
+  To enable the snake animation:
+  1. Create a repo named FishyMeister/FishyMeister (your profile repo) if not already done
+  2. Add .github/workflows/snake.yml with the following content:
+
+  name: Generate Snake
+  on:
+    schedule: [{ cron: "0 */12 * * *" }]
+    workflow_dispatch:
+  jobs:
+    build:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: Platane/snk@v3
+          with:
+            github_user_name: ${{ github.repository_owner }}
+            outputs: |
+              dist/snake.svg
+              dist/snake-dark.svg?palette=github-dark
+        - uses: crazy-max/ghaction-github-pages@v3
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  3. Run the action once manually, then uncomment the block below.
+-->
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FishyMeister/FishyMeister/output/snake-dark.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/FishyMeister/FishyMeister/output/snake.svg">
+</picture>
+</div>
+
+---
+
+<div align="center">
+  <sub>🟢 Available for new projects &nbsp;·&nbsp; Responds within 24 hours &nbsp;·&nbsp; <a href="mailto:nomanbasit366@gmail.com">nomanbasit366@gmail.com</a></sub>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E8630A&height=90&section=footer"/>
